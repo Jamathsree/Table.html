@@ -1,0 +1,28 @@
+.row {
+    display: table;
+}
+
+.column {
+
+    float: left;
+    width: 250px;
+    padding: 50px;
+    height: 250px;
+    border: 2px;
+    margin: 2px;
+    text-align: center;
+  
+}
+
+#idm {
+    padding: 100px;
+    
+}
+
+img {
+    width: auto;
+    width: 250px;
+    height: 200px;
+    padding-right:250px;
+    right: 100px;
+}
